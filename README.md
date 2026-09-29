@@ -49,7 +49,14 @@ This tool can be used for:
 - Steam cycle analysis
 - Engineering calculations
 - Water and steam property evaluation
+- 
+## Screenshots
 
+(
+<img width="1920" height="1080" alt="AdobeExpressPhotos_f1153e1340364b53993b5d898989b692_CopyEdited" src="https://github.com/user-attachments/assets/f04483fb-59c2-4e91-bcf3-c7569f18463c" />
+<img width="1920" height="1001" alt="image" src="https://github.com/user-attachments/assets/9a055984-c758-4432-8294-1397f0e7ef1d" />
+
+)
 
 ## Author
 
