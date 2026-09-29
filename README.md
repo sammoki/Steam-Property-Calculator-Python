@@ -52,8 +52,8 @@ This tool can be used for:
 - 
 ## Screenshots
 
-<img width="1920" height="976" alt="AdobeExpressPhotos_9c0156bb43a2484dbf9c63bcdc4fe3da_CopyEdited" src="https://github.com/user-attachments/assets/6bb5dbd0-0dde-46de-bdd4-e290db58f0b9" />
 <img width="1920" height="976" alt="AdobeExpressPhotos_6fd5a759d8ba4ea19abdf3e49c67a2e8_CopyEdited" src="https://github.com/user-attachments/assets/f89114b3-6c6e-42e4-8826-476ba92d3f05" />
+<img width="1920" height="1001" alt="AdobeExpressPhotos_4b78061028754de0bd136daabcb08976_CopyEdited" src="https://github.com/user-attachments/assets/785076a6-624b-47b5-90fa-f0bad1cd8ddd" />
 
 ## Author
 
