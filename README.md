@@ -52,11 +52,9 @@ This tool can be used for:
 - 
 ## Screenshots
 
-(
-<img width="1920" height="1080" alt="AdobeExpressPhotos_f1153e1340364b53993b5d898989b692_CopyEdited" src="https://github.com/user-attachments/assets/f04483fb-59c2-4e91-bcf3-c7569f18463c" />
-<img width="1920" height="1001" alt="image" src="https://github.com/user-attachments/assets/9a055984-c758-4432-8294-1397f0e7ef1d" />
+<img width="1920" height="976" alt="AdobeExpressPhotos_9c0156bb43a2484dbf9c63bcdc4fe3da_CopyEdited" src="https://github.com/user-attachments/assets/6bb5dbd0-0dde-46de-bdd4-e290db58f0b9" />
+![Uploading AdobeExpressPhotos_edf39f56d6ec4438879e94b2168a786d_CopyEdited.png…]()
 
-)
 
 ## Author
 
